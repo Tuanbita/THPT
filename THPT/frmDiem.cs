@@ -10,20 +10,11 @@ using System.Windows.Forms;
 
 namespace THPT
 {
-    public partial class Form1 : Form
+    public partial class frmDiem : Form
     {
-        public Form1()
+        public frmDiem()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-        }
-
-        private void btnCong_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }

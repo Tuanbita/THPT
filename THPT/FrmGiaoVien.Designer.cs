@@ -124,7 +124,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(630, 278);
+            this.ClientSize = new System.Drawing.Size(474, 265);
             this.Controls.Add(this.txtMonDay);
             this.Controls.Add(this.txtNamSinh);
             this.Controls.Add(this.txtQueQuan);
